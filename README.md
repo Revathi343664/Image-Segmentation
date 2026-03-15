@@ -1,5 +1,3 @@
----
-
 # Image Segmentation using U-Net
 
 ## Project Overview
